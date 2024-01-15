@@ -32,3 +32,5 @@
 
 3 Used the .get() fuction in my second code, refer to this website. 
 [https://www.codecademy.com/resources/docs/python/dictionaries/get]
+4. Used the 2f. fuction to format numbers to two decimal places. 
+[https://tutorial.eyehunts.com/python/what-is-2f-python/]
